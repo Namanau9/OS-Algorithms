@@ -1,5 +1,4 @@
 # OS-Scheduling-Algorithms
-
 This project implements several fundamental CPU scheduling algorithms in C. These algorithms are used in operating systems to manage the order in which processes are executed based on various criteria. The program demonstrates how to calculate waiting time, turnaround time, and optimize process scheduling using different methods.
 
 ## Algorithms Implemented
